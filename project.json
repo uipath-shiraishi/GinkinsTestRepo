@@ -1,0 +1,14 @@
+{
+  "name": "GinkinsTest",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.7.0",
+  "projectVersion": "1.0.7034.24837",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
